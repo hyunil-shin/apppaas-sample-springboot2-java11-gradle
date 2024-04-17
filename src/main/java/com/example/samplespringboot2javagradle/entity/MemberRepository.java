@@ -9,5 +9,5 @@ import org.springframework.data.repository.CrudRepository;
  * @since 1.0
  */
 public interface MemberRepository extends CrudRepository<Member, Long> {
-3333
+3333222
 }
